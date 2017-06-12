@@ -1,18 +1,17 @@
-body {
-    position: relative;
-    background-color: #fcfcfc;
-    font-family: Roboto;
+body, html {
+    background-color: #efefef;
 }
 
 a {
   color: #3b94d9;
+  font-weight: bold;
 }
 
 
 /* Nav */
 
 nav {
-    background-color: #FAFFFD;
+    background-color: #efefef;
     position: relative;
 }
 
@@ -59,23 +58,7 @@ nav {
     text-align: center;
 }
 
-
-/* Widget Bar */
-
-.main .l3 {
-    text-align: center;
-}
-
-
 /* Blog */
-
-.main h5 {
-    text-align: center;
-}
-
-.main .blog-info {
-    text-align: center;
-}
 
 .main .determinate {
     background-color: #7bf788;
