@@ -2,6 +2,10 @@ body, html {
     background-color: #efefef;
 }
 
+.row {
+    margin: 0;
+}
+
 /* Nav */
 
 .nav-wrapper a {
@@ -37,24 +41,7 @@ body, html {
     padding-top: 10px;
 }
 
-/* Blog */
 
-.main .determinate {
-    background-color: #7bf788;
-}
-
-.main .progress {
-    margin-top: 20px;
-}
-
-.main .blog-post {
-    padding-bottom: 30px;
-    margin: none;
-}
-
-.main .blog-info {
-    padding-bottom: 20px;
-}
 
 
 /* Footer */
