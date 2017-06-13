@@ -35,30 +35,6 @@ body, html {
 }
 
 
-/* Main */
-
-.main {
-    padding-top: 10px;
-}
-
-
-
-
-/* Footer */
-
-.page-footer {
-    color: white;
-    margin-top: 50px;
-}
-
-.page-footer a {
-    color: white;
-    transition: color .2s linear;
-}
-
-.page-footer a:hover {
-    color: #3C91E6 !important;
-}
 
 /* Voting Page */
 
