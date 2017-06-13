@@ -10,16 +10,16 @@ nav {
 }
 
 .nav-wrapper a {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 0px 10px 0px 10px;
 }
 
 .nav-wrapper li {
-    transition: all 0.2s ease;
-    margin-bottom: -2px;
+    transition: all 0.25s ease;
+    border-bottom: 2px solid transparent;
 }
 
 .nav-wrapper li:hover {
+    transition: all 0.25s ease;
     border-bottom: 2px solid #3C91E6;
 }
 
@@ -28,7 +28,6 @@ nav {
 
 .header {
     background-position: center top;
-    text-align: center;
 }
 
 .header img {
@@ -40,14 +39,6 @@ nav {
 
 .main {
     padding-top: 10px;
-}
-
-
-/* "Join us" message */
-
-.main .notification {
-    background-color: #FA824C;
-    text-align: center;
 }
 
 /* Blog */
