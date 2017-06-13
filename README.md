@@ -1,3 +1,7 @@
+This repository is a remake of MaterialCraft. Credit for MaterialCraft goes to the original author, Sid Engel, but a multitude of changes have been made to separate this repository from the original in terms of design.
+A demo of the the redesigned template can be found on [our GitHub pages site](https://artexdevelopment.github.io/MaterialCraft).
+The following is the README.md file from the original repository.
+
 ## About
 I was eager to start a new project and didn't know what to start on. After finding Google's [Materialize](http://materializecss.com/), I had gotten an instant urge of inspiration. I immediately started working on MaterialCraft.
 
