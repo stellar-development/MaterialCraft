@@ -4,11 +4,6 @@ body, html {
 
 /* Nav */
 
-nav {
-    background-color: #342E37;
-    position: relative;
-}
-
 .nav-wrapper a {
     padding: 0px 10px 0px 10px;
 }
@@ -65,7 +60,6 @@ nav {
 /* Footer */
 
 .page-footer {
-    background-color: #342E37;
     color: white;
     margin-top: 50px;
 }
@@ -77,14 +71,6 @@ nav {
 
 .page-footer a:hover {
     color: #3C91E6 !important;
-}
-
-.footer-copyright {
-    background-color: #28232b !important;
-}
-
-.footer-copyright .row {
-    margin: 0;
 }
 
 /* Voting Page */
