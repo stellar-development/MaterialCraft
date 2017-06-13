@@ -34,7 +34,21 @@ body, html {
     max-width: 25%;
 }
 
+/* Main */
 
+.main {
+    padding-top: 25px 0px 25px 0px;
+}
+
+/* Footer */
+
+.page-footer a {
+    transition: color .2s linear;
+}
+
+.page-footer a:hover {
+    color: #3C91E6 !important;
+}
 
 /* Voting Page */
 
