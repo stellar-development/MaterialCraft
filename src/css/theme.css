@@ -58,6 +58,6 @@ body, html {
         max-width: 50%;
     }
     .page-footer {
-        text-align: left !important;
+        padding-bottom: 20px;
     }
 }
